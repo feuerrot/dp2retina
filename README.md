@@ -4,8 +4,14 @@ Nach [diesem Blogpost](http://emerythacks.blogspot.de/2013/04/connecting-ipad-re
 Zusätzlich: zwei MAX17129 für die 12 Kanäle der Hintergrundbeleuchtung + ein ATTiny45 mit VUSB-Support für HintergrundbeleuchtungsPWM.
 
 ## Projektstatus
+Das Platinenlayout funktioniert. Der Connector für das Display ist nicht schön zu löten und die Schaltreglerkomponenten mittels Lötkolben auch nicht so.
 
-Das Platinenlayout funktioniert. Der Connector für das Display ist nicht schön zu löten und die Schaltreglerkomponenten mittels Lötkolben auch nicht so. Next: grüßere Platine - seitliche Anschlüsse und ggf ein minimales Userinterface?
+## Todo
+* größere Platine
+ * seitliche Anschlüsse
+ * Buttons zur Helligkeitsregelung
+* ein Gehäuse
+ * 3D-Druck ist zu klein -> Lasercutter&Plexiglas?
 
 ## Layout und so
 
